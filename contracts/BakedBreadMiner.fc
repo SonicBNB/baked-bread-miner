@@ -1,0 +1,3 @@
+contract BakedBreadMiner {
+  // TODO: deposits, batches, dough accrual, max payout, patience bonus
+}
